@@ -7,22 +7,23 @@ The tracking of employees exit times is not yet included.
 
 The project does not currently have a GUI and is run through a code editor.
 
-Prerequisites:
-
+### Prerequisites:
 
 An installed Python version 3.6 or above. 
 An installed a code editor to run the project files on.
 
-
-Using Employee Attendance: 
+### Using Employee Attendance: 
 
 The project does not have a GUI at the moment and is run through the code editor or IDE.
 
 In order to use the functions, 4 .csv files must exist in the project directory: 
 
-current _employees.csv ; new_employess.csv ; delete_employees.csv ; Employee_attendance.csv (can be empty other than the column header).
+- current _employees.csv 
+- new_employess.csv 
+- delete_employees.csv 
+- employee_attendance.csv (can be empty other than the column header).
 
-The first row is the heading of each column, and should be in this order: ID, name, phone, age.
+The first row (in all of the above files) is the heading of each column, and should be in this order: ID, name, phone, age.
 
 Example files can be found in the repository.
 
