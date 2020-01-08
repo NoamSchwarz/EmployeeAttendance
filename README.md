@@ -1,17 +1,21 @@
 # EmployeeAttendance
 This is a system designed to track employees of a company.
+
 The system enables employees to log their arrival time, and employers to manage a list of current employees (add/delete employees manually or by .csv file), and generate reports on employee arrival times. 
 The tracking of employees exit times is not yet included.
 The project does not currently have a GUI and is run through a code editor.
 
 Prerequisites:
+
 An installed Python version 3.6 or above. 
 An installed a code editor to run the project files on.
 
 Using Employee Attendance: 
+
 The project does not have a GUI at the moment and is run through the code editor or IDE.
 
 In order to use the functions, 4 .csv files must exist in the project directory: 
+
 current _employees.csv ;
 new_employess.csv ;
 delete_employees.csv ;
